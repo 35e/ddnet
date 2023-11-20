@@ -1239,108 +1239,108 @@ FPM
 
 [Graphics error]
 Failed during initialization. Try to change gfx_backend to OpenGL or Vulkan in settings_ddnet.cfg in the config directory and try again.
-== 
+== Initialisatie mislukt. Probeer gfx_backend te veranderen naar OpenGL of Vulkan in settings_ddnet.cfg in de configuratiemap en probeer het opnieuw.
 
 [Graphics error]
 Out of VRAM. Try removing custom assets (skins, entities, etc.), especially those with high resolution.
-== 
+== Geen VRAM meer. Probeer aangepaste assets (skins, entiteiten, etc.) te verwijderen, vooral die met een hoge resolutie.
 
 [Graphics error]
 An error during command recording occurred. Try to update your GPU drivers.
-== 
+== Er is een fout opgetreden tijdens het opnemen van commando's. Probeer je GPU-drivers bij te werken.
 
 [Graphics error]
 A render command failed. Try to update your GPU drivers.
-== 
+== Een renderopdracht is mislukt. Probeer je GPU-drivers bij te werken.
 
 [Graphics error]
 Submitting the render commands failed. Try to update your GPU drivers.
-== 
+== Het indienen van de renderopdrachten is mislukt. Probeer je GPU-drivers bij te werken.
 
 [Graphics error]
 Failed to swap framebuffers. Try to update your GPU drivers.
-== 
+== Het wisselen van framebuffers is mislukt. Probeer je GPU-drivers bij te werken.
 
 [Graphics error]
 Unknown error. Try to change gfx_backend to OpenGL or Vulkan in settings_ddnet.cfg in the config directory and try again.
-== 
+== Onbekende fout. Probeer gfx_backend te veranderen naar OpenGL of Vulkan in settings_ddnet.cfg in de configuratiemap en probeer het opnieuw.
 
 [Graphics error]
 Could not initialize the given graphics backend, reverting to the default backend now.
-== 
+== Kon de gegeven grafische backend niet initialiseren, nu terugkeren naar de standaard backend.
 
 [Graphics error]
 Could not initialize the given graphics backend, this is probably because you didn't install the driver of the integrated graphics card.
-== 
+== Kon de gegeven grafische backend niet initialiseren, dit komt waarschijnlijk omdat je de driver van de geïntegreerde grafische kaart niet hebt geïnstalleerd.
 
 Could not save downloaded map. Try manually deleting this file: %s
-== 
+== Kon de gedownloade map niet opslaan. Probeer dit bestand handmatig te verwijderen: %s
 
 Error playing demo
-== 
+== Fout bij het afspelen van de demo
 
 Preparing demo playback
-== 
+== Demo-afspelen voorbereiden
 
 Connected
-== 
+== Verbonden
 
 Loading map file from storage
-== 
+== Map bestand laden vanuit opslag
 
 Why are you slowmo replaying to read this?
-== 
+== Waarom speel je dit in slowmotion af om dit te lezen?
 
 Initializing components
-== 
+== Componenten initialiseren
 
 Initializing assets
-== 
+== Assets initialiseren
 
 Initializing map logic
-== 
+== Map logica initialiseren
 
 Sending initial client info
-== 
+== Initiële client informatie verzenden
 
 Quitting. Please wait…
-== 
+== Bezig met afsluiten. Even geduld alstublieft…
 
 Restarting. Please wait…
-== 
+== Bezig met herstarten. Even geduld alstublieft…
 
 Position:
-== 
+== Positie:
 
 Speed:
-== 
+== Snelheid...
 
 Angle:
-== 
+== Hoek:
 
 Multi-View
-== 
+== Multi-View
 
 Some map images could not be loaded. Check the local console for details.
-== 
+== Sommige map afbeeldingen konden niet worden geladen. Controleer de console voor details.
 
 Uploading map data to GPU
-== 
+== Map gegevens uploaden naar GPU
 
 Some map sounds could not be loaded. Check the local console for details.
-== 
+== Sommige map geluiden konden niet worden geladen. Controleer de console voor details.
 
 Loading menu themes
-== 
+== Menu thema's laden
 
 Trying to determine UDP connectivity...
-== 
+== Proberen UDP-connectiviteit te bepalen...
 
 UDP seems to be filtered.
-== 
+== UDP lijkt gefilterd te zijn.
 
 UDP and TCP IP addresses seem to be different. Try disabling VPN, proxy or network accelerators.
-== 
+== UDP- en TCP-IP-adressen lijken verschillend te zijn. Probeer VPN, proxy of netwerkversnellers uit te schakelen.
 
 No answer from server yet.
 == 
